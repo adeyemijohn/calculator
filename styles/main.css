@@ -10,6 +10,9 @@ html {
     padding: 0;
     box-sizing: inherit;
 }
+.title h1{
+    background-color: red;
+}
 
 .calculator {
     border: 1px solid #ccc;
